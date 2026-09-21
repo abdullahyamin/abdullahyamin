@@ -4,11 +4,13 @@
 
 <p align="center">
   <a href="https://abdullahyamin.github.io"><img src="https://img.shields.io/badge/View_my_portfolio-abdullahyamin.github.io-7ee0c3?style=for-the-badge&labelColor=12161e" alt="View my portfolio at abdullahyamin.github.io"></a>
+  <a href="https://www.linkedin.com/in/abdullah-yamin"><img src="https://img.shields.io/badge/LinkedIn-abdullah--yamin-7ee0c3?style=for-the-badge&labelColor=12161e&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn: abdullah-yamin"></a>
+  <a href="mailto:abdullahyamin2003@gmail.com"><img src="https://img.shields.io/badge/Email-abdullahyamin2003%40gmail.com-7ee0c3?style=for-the-badge&labelColor=12161e&logo=gmail&logoColor=white" alt="Email: abdullahyamin2003@gmail.com"></a>
 </p>
 
 ## About me
 
-I'm **Abdullah Yamin**, an **Artificial Intelligence Engineer** with a background in AI Engineering at Bahçeşehir University in Istanbul.
+I'm **Abdullah Yamin**, an **Artificial Intelligence Engineer** based in Kuwait and open to relocation worldwide. I hold a B.Sc. in Artificial Intelligence Engineering from Bahçeşehir University, Istanbul (2026), and most recently worked as an AI/ML intern at Gulf Insurance Group, where I received top evaluation scores (5/5) for attendance, discipline, technical ability and teamwork.
 
 I build retrieval-augmented and multi-agent LLM systems, then test them hard enough to know whether they can be trusted. I'm drawn to problems where a wrong answer has a real cost: clinical decisions, official rules people rely on, and misinformation.
 
@@ -46,6 +48,8 @@ Schema-validated data in, a monitored model behind an API out: MLflow tracking a
   <img src="https://img.shields.io/badge/LangChain-12161e?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/Ollama-12161e?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
   <img src="https://img.shields.io/badge/Gemini-12161e?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/TensorFlow-12161e?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-12161e?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/scikit--learn-12161e?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/FastAPI-12161e?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/MLflow-12161e?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
@@ -61,5 +65,6 @@ Schema-validated data in, a monitored model behind an API out: MLflow tracking a
 ---
 
 <p align="center">
-  <b>The full story behind each project is on my portfolio: <a href="https://abdullahyamin.github.io">abdullahyamin.github.io</a></b>
+  <b>Open to AI engineering roles, in Kuwait or anywhere in the world.</b><br>
+  <a href="mailto:abdullahyamin2003@gmail.com">abdullahyamin2003@gmail.com</a> · <a href="https://www.linkedin.com/in/abdullah-yamin">LinkedIn</a> · <a href="https://abdullahyamin.github.io">Portfolio</a>
 </p>
