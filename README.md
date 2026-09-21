@@ -1,27 +1,34 @@
 <a href="https://abdullahyamin.github.io">
+  <img src="assets/portfolio-button.svg" width="100%" alt="View my portfolio at abdullahyamin.github.io">
+</a>
+
+<a href="https://abdullahyamin.github.io">
   <img src="assets/banner.svg" width="100%" alt="Abdullah Yamin, Artificial Intelligence Engineer">
 </a>
 
 <p align="center">
-  <a href="https://abdullahyamin.github.io"><img src="https://img.shields.io/badge/View_my_portfolio-abdullahyamin.github.io-7ee0c3?style=for-the-badge&labelColor=12161e" alt="View my portfolio at abdullahyamin.github.io"></a>
   <a href="https://www.linkedin.com/in/abdullah-yamin"><img src="https://img.shields.io/badge/LinkedIn-abdullah--yamin-7ee0c3?style=for-the-badge&labelColor=12161e&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn: abdullah-yamin"></a>
   <a href="mailto:abdullahyamin2003@gmail.com"><img src="https://img.shields.io/badge/Email-abdullahyamin2003%40gmail.com-7ee0c3?style=for-the-badge&labelColor=12161e&logo=gmail&logoColor=white" alt="Email: abdullahyamin2003@gmail.com"></a>
 </p>
 
-## About me
+## I build AI that shows its work.
 
-I'm **Abdullah Yamin**, an **Artificial Intelligence Engineer** based in Kuwait and open to relocation worldwide. I hold a B.Sc. in Artificial Intelligence Engineering from Bahçeşehir University, Istanbul (2026), and most recently worked as an AI/ML intern at Gulf Insurance Group, where I received top evaluation scores (5/5) for attendance, discipline, technical ability and teamwork.
+Hi, I'm Abdullah 👋 My systems cite their sources, keep private data private, and say *"I don't know"* instead of guessing. Then I try to break them before anyone relies on them.
 
-I build retrieval-augmented and multi-agent LLM systems, then test them hard enough to know whether they can be trusted. I'm drawn to problems where a wrong answer has a real cost: clinical decisions, official rules people rely on, and misinformation.
+📍 Kuwait · open to relocation &nbsp;&nbsp;🎓 B.Sc. AI Engineering, 2026
 
 **How I work**
 
-- **Show the source.** My assistants cite the document and article behind every claim.
-- **Privacy by default.** Local models and synthetic data whenever people's personal data is involved.
-- **Measure, then claim.** Benchmarks, ablations and error analysis come first, and I report the misses along with the wins.
-- **Fail safely.** An honest "I don't know" beats a confident wrong answer.
+- 🔎 **Show the source.** Every answer points to where it came from.
+- 🔒 **Privacy by default.** Local models and synthetic data when real people are involved.
+- 📏 **Measure, then claim.** Benchmarks and error analysis before conclusions, misses included.
+- 🛑 **Fail safely.** An honest "I don't know" beats a confident wrong answer.
 
 ## Featured work
+
+**VisaDocs** · checks visa paperwork before people pay the fee · 🔒 private, in development<br>
+Tells applicants exactly which documents their route requires, drawn from official government and embassy sources. It already covers **16,750 routes** (250 nationalities × 67 destinations) plus student permits for 148 destinations, clearly labels anything unverified, and is designed never to predict approval or store an uploaded document.<br>
+<sub>Next.js · TypeScript · PostgreSQL · Prisma · two-person team · code is private</sub>
 
 **[ClinicalBridge](https://github.com/abdullahyamin/Clinical-Bridge-)** · multi-agent clinical decision support<br>
 Four local LLM agents turn a remote patient-monitoring alert into a clinician-ready brief with a full audit trail. Evaluation caught the model writing a detail into patient summaries that wasn't in their records, and a sentence-level grounding validator took the **safety pass rate from 80% to 100%**.<br>
@@ -38,6 +45,11 @@ DistilBERT (**99.6% accuracy**) against a TF-IDF baseline on 44,898 articles, fo
 **[Customer-churn MLOps pipeline](https://github.com/abdullahyamin/customer-churn-mlops-)** · production machine learning<br>
 Schema-validated data in, a monitored model behind an API out: MLflow tracking and model registry, Optuna tuning, FastAPI and batch inference, PSI/KS drift monitoring, Docker, and CI that lints, tests and runs the whole pipeline.<br>
 <sub>scikit-learn · MLflow · Optuna · FastAPI · Docker · GitHub Actions</sub>
+
+## Experience
+
+**AI/ML Intern · Gulf Insurance Group, Kuwait** · Dec 2025 – Apr 2026<br>
+AI and digital-transformation projects across enterprise insurance systems. Scored 5/5 for attendance, discipline, technical ability and teamwork.
 
 ## Toolbox
 
